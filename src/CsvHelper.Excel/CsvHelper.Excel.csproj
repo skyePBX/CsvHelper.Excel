@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <Description>An implementation of IParser and ISerializer from CsvHelper that reads and writes using the EPPlus library.</Description>
     <AssemblyTitle>CsvHelper for Excel</AssemblyTitle>
     <VersionPrefix>2.1.0</VersionPrefix>
