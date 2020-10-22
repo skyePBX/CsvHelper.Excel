@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvHelper.Excel", "CsvHelper.Excel\CsvHelper.Excel.csproj", "{72E37422-03CE-4071-ACEA-5DFEF1DB86D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvHelper.Excel.Test", "CsvHelper.Excel.Tests\CsvHelper.Excel.Tests.csproj", "{DA9BBF1B-55BE-412C-8AC1-0A70300B8A90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvHelper.Excel.Tests", "CsvHelper.Excel.Tests\CsvHelper.Excel.Tests.csproj", "{DA9BBF1B-55BE-412C-8AC1-0A70300B8A90}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvHelper", "..\CsvHelper\src\CsvHelper\CsvHelper.csproj", "{5A0BE480-7B09-40A4-9E0B-01B765D6F580}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DA9BBF1B-55BE-412C-8AC1-0A70300B8A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9BBF1B-55BE-412C-8AC1-0A70300B8A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9BBF1B-55BE-412C-8AC1-0A70300B8A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0BE480-7B09-40A4-9E0B-01B765D6F580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0BE480-7B09-40A4-9E0B-01B765D6F580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0BE480-7B09-40A4-9E0B-01B765D6F580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0BE480-7B09-40A4-9E0B-01B765D6F580}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
